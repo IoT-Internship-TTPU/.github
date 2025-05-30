@@ -16,4 +16,4 @@ The members are encouraged to use this github organization to create, share, and
 - Offical [Youtube Channel](https://www.youtube.com/@iotturinuz)
 - Official [Telegram Channel](https://t.me/polito_uz)
 - Contact person:\
-              - _maksudjon.usmonov@polito.uz_\
+              - _maksudjon.usmonov@polito.uz_
