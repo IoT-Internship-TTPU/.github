@@ -8,7 +8,7 @@ The members are encouraged to use this github organization to create, share, and
 ## Summary of Repositories
 
 - [IoT Internship 2024 - Project & Repos](https://github.com/ttpu/IoTintern2024_PROJECTS)
-- [IoT Internship 2025 - Project & Repos](https://github.com/ttpu/IoTintern2024_PROJECTS)
+- [IoT Internship 2025 - Project & Repos](https://github.com/IoT-Internship-TTPU/IoTintern2025_PROJECTS)
 
 ---------------------------------------------------------------------------------------
 ## Contact info:
