@@ -5,7 +5,7 @@ In this organization, you will find the repositories of the projects, created du
 The members are encouraged to use this github organization to create, share, and collaborate on the projects here, instead of their own personal github pages.
 
 ---------------------------------------------------------------------------------------
-## FEATURED Projects
+## 🚀 FEATURED Projects
 
 
 ---------------------------------------------------------------------------------------
